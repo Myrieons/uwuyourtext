@@ -7,7 +7,7 @@ Make your text better. uwu your text. Surely, this will make any block of text b
 
 --------
 
-How to use this to make youe text better: 
+How to use this to make your text better: 
 1. get python
 2. run this
 3. profit
